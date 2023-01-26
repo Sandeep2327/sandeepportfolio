@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sandeepportfolio/static/css/main.4d30e7c8.css",
+    "main.js": "/sandeepportfolio/static/js/main.bf2ce253.js",
+    "static/media/cv.pdf": "/sandeepportfolio/static/media/cv.d3f5d716f96f30fffdc4.pdf",
+    "static/media/avatar3.jpg": "/sandeepportfolio/static/media/avatar3.bd92e2e06cf5842dfb34.jpg",
+    "static/media/avatar1.jpg": "/sandeepportfolio/static/media/avatar1.b546693c3bea7e689765.jpg",
+    "static/media/avatar4.jpg": "/sandeepportfolio/static/media/avatar4.bee6c06375841a935b00.jpg",
+    "static/media/portfolio5.png": "/sandeepportfolio/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/portfolio2.jpg": "/sandeepportfolio/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/sandeepportfolio/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/avatar2.jpg": "/sandeepportfolio/static/media/avatar2.e2a1222d5f8ca2c1adcd.jpg",
+    "static/media/portfolio1.jpg": "/sandeepportfolio/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/sandeepportfolio/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/sandeep.jpg": "/sandeepportfolio/static/media/sandeep.708eeebbf703ff0097af.jpg",
+    "static/media/portfolio4.jpg": "/sandeepportfolio/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/sandeepportfolio/index.html",
+    "main.4d30e7c8.css.map": "/sandeepportfolio/static/css/main.4d30e7c8.css.map",
+    "main.bf2ce253.js.map": "/sandeepportfolio/static/js/main.bf2ce253.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d30e7c8.css",
+    "static/js/main.bf2ce253.js"
+  ]
+}
