@@ -18,24 +18,24 @@ const data = [
   {
       avatar: AVTR1,
       name: 'Sarita Mahawar',
-      review: 'its a nice and beautiful website made by my friend Sandeep. He just created his resume but in a very fantastic way.'
+      review: 'The web development service by Sandeep is top-notch! He is highly skilled, professional, and efficient. He was able to deliver the project on time and exceeded our expectations. I highly recommend him for any web development needs.'
   },
    {
       avatar: AVTR2,
       name: "Sachhin Kumawat",
-      review: 'Your site is very useful to us I made a site to learn  to our new ideas and planning extra and your site is very easy to understand'
+      review: 'I highly recommend Sandeep for all your UI design and wireframing needs. He is incredibly talented and has a keen eye for detail. He has been able to bring our vision to life with ease and has exceeded our expectations. He is a true professional and we look forward to working with him again in the future.'
    },
    {
       avatar: AVTR3,
       name: "Tanishq Sharma",
-      review: 'Got here just by surfing on my friends circle accounts,  but then I just realised its a nice and beautiful website made by my friend Sandeep. He just created his resume but in a very fantastic way.'
+      review: 'The web development service by Sandeep is top-notch! He is highly skilled, professional, and efficient. He was able to deliver the project on time and exceeded our expectations. I highly recommend him for any web development needs.'
 
 
   },
    {
       avatar: AVTR4,
       name: "Rahul Kumawat",
-      review: 'Your site is very useful to us I made a site to learn  to our new ideas and planning extra and your site is very easy to understand'
+      review: 'I highly recommend Sandeep for all your UI design and wireframing needs. He is incredibly talented and has a keen eye for detail. He has been able to bring our vision to life with ease and has exceeded our expectations. He is a true professional and we look forward to working with him again in the future.'
   },
 ]
 

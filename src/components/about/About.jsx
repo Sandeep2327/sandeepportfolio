@@ -21,31 +21,37 @@ const About = () => {
         <div className="about_content">
           <div className="about_cards">
             <article className="about_card">
-              <FaAward className="about_icon"/>
+              <FaAward className="about_icon" />
               <h5>Experience</h5>
               <small>3+ years working</small>
             </article>
 
             <article className="about_card">
-              <FiUsers className="about_icon"/>
+              <FiUsers className="about_icon" />
               <h5>Clients</h5>
               <small>10+ in India</small>
             </article>
 
             <article className="about_card">
-              <VscFolderLibrary  className="about_icon"/>
+              <VscFolderLibrary className="about_icon" />
               <h5>Projects</h5>
               <small>3+ Completed</small>
             </article>
           </div>
 
           <p className="">
-          It is a long established fact that a reader  will be distracted by the readable content of a 
-          page when looking at its layout. The point of using lorem Ipsum is that it has a more-normal 
-          distribution of letters, as opposed.
+            I am a highly skilled and versatile software engineer who has
+            expertise in both front-end and back-end development. strong
+            understanding of web development technologies such as HTML, CSS,
+            JavaScript, BootStrap, Tailwind CSS and frameworks like ReactJs, and NodeJs. With
+            their ability to work on both the client and server side of an
+            application, I am able to design, develop and maintain complete web
+            applications.
           </p>
 
-          <a href="#contact" className="btn btn-primary">Let's Talk</a>
+          <a href="#contact" className="btn btn-primary">
+            Let's Talk
+          </a>
         </div>
       </div>
     </section>
