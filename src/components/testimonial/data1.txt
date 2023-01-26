@@ -1,0 +1,34 @@
+const data = [
+    {
+        avtar: Avt1,
+        name: "Sarita Mahawar",
+        review: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam,
+            explicabo, doloremque fugiat dicta odit dolorum quibusdam totam
+            delectus, possimus ad nam. Veniam neque recusandae voluptatibus
+            facilis? Ipsa tenetur expedita fugiat?"
+    },
+     {
+        avtar: Avt2,
+        name: "Sachhin Kumawat",
+        review: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam,
+            explicabo, doloremque fugiat dicta odit dolorum quibusdam totam
+            delectus, possimus ad nam. Veniam neque recusandae voluptatibus
+            facilis? Ipsa tenetur expedita fugiat?"
+    },
+     {
+        avtar: Avt3,
+        name: "Tanisque Sharma",
+        review: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam,
+            explicabo, doloremque fugiat dicta odit dolorum quibusdam totam
+            delectus, possimus ad nam. Veniam neque recusandae voluptatibus
+            facilis? Ipsa tenetur expedita fugiat?"
+    },
+     {
+        avtar: Avt4,
+        name: "Rahul Kumawat",
+        review: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam,
+            explicabo, doloremque fugiat dicta odit dolorum quibusdam totam
+            delectus, possimus ad nam. Veniam neque recusandae voluptatibus
+            facilis? Ipsa tenetur expedita fugiat?"
+    },
+]
